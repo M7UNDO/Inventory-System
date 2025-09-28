@@ -1,4 +1,0 @@
-repository "UIAssignment@dhlaminimfundo454@cloud"
-  path "/"
-    br "/main"
-    co "/main"
