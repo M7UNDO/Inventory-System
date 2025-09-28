@@ -2283,7 +2283,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c206999dcb4ed1944817d965ec46de3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  amount: 100
+  amount: 200
 --- !u!114 &1106995438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2298,6 +2298,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerCurrency: {fileID: 1106995437}
   currencyText: {fileID: 974140901}
+  currencyAmount: 200
 --- !u!1001 &1181421376
 PrefabInstance:
   m_ObjectHideFlags: 0
